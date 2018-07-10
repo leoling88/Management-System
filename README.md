@@ -1,4 +1,4 @@
-# management-system
+# management-sys
 
 > A Vue.js project
 
