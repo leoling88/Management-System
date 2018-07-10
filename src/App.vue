@@ -6,9 +6,14 @@
 </template>
 
 <script>
+import { Drawer } from 'vux'
+import { mapState, mapActions } from 'vuex'
 export default {
-  name: 'App'
-}
+  components: {
+    Drawer
+  }
+}  
+
 </script>
 
 <style>
